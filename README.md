@@ -1,1 +1,1 @@
-# leangpt.github.io
+# gptmini.github.io
